@@ -13,3 +13,6 @@ IF 0==1 (
 )
 CALL :EOF
 CALL :EOF
+IF 0==3 (
+    ECHO This will never execute
+)
