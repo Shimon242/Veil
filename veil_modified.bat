@@ -12,3 +12,4 @@ IF 0==1 (
     ECHO This will never execute
 )
 CALL :EOF
+CALL :EOF
