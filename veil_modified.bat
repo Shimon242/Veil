@@ -11,8 +11,7 @@ SET __UNUSED_VAR__=hash_variant_07
 IF 0==1 (
     ECHO This will never execute
 )
-CALL :EOF
-CALL :EOF
 IF 0==3 (
     ECHO This will never execute
 )
+CALL :EOF
